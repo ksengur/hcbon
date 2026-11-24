@@ -1,7 +1,8 @@
-# Selecting Beyond the Proxy: Human-Calibrated Best-of-N Generative Restoration
+# Selection-Aware Calibration for Best-of-N Generative Restoration
 
-Code for the paper *Selecting Beyond the Proxy: Human-Calibrated Best-of-N Generative Restoration with
-Population-Level Guarantees* (submitted to IEEE Transactions on Image Processing).
+Code for the paper *Selection-Aware Calibration for Best-of-N Generative Restoration with Population-Level
+Human-Preference Guarantees* by Abdulkadir Sengur, Massimo Salvi, Yan Tian and Rajendra Acharya
+(submitted to IEEE Transactions on Image Processing).
 
 HC-BoN chooses among N generated candidates or keeps the reference, and calibrates the whole select-then-deploy
 decision with Learn-then-Test (LTT) or Conformal Risk Control (CRC) on a vote-level loss. The result is a
@@ -93,8 +94,8 @@ Code: MIT (see `LICENSE`). The datasets are subject to their own licences and ar
 
 ```bibtex
 @article{hcbon2026,
-  title   = {Selecting Beyond the Proxy: Human-Calibrated Best-of-N Generative Restoration with Population-Level Guarantees},
-  author  = {TODO},
+  title   = {Selection-Aware Calibration for Best-of-N Generative Restoration with Population-Level Human-Preference Guarantees},
+  author  = {Sengur, Abdulkadir and Salvi, Massimo and Tian, Yan and Acharya, Rajendra},
   journal = {IEEE Transactions on Image Processing},
   note    = {submitted},
   year    = {2026}
