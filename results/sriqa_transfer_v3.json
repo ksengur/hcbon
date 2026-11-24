@@ -1,0 +1,368 @@
+{
+ "selected_config": {
+  "fset": "proxy+afine",
+  "n_extra": 23,
+  "k": 0,
+  "hidden": 128,
+  "wd": 0.01,
+  "epochs": 30,
+  "cv_bo6_p": 0.602534047778522,
+  "cv_eff": 0.4241708912193804,
+  "cv_nll": -1.0315702298044291,
+  "cv_spearman": 0.7550193211121843
+ },
+ "train_json": "pilot/work_bon/pred3_test_train.json",
+ "c": 0.0,
+ "settings": {
+  "A_ref_RealESRNet": {
+   "K": 9,
+   "random_p": 0.7932222222222223,
+   "oracle_p": 0.9940000000000001,
+   "select": {
+    "hcbon": {
+     "p_selected": 0.9480000000000001,
+     "efficiency": 0.7708909795240729,
+     "within_spearman": 0.543
+    },
+    "musiq": {
+     "p_selected": 0.9339999999999999,
+     "efficiency": 0.7011621472053119,
+     "within_spearman": 0.5595000000000001
+    },
+    "clipiqa": {
+     "p_selected": 0.8645,
+     "efficiency": 0.3550083010514664,
+     "within_spearman": 0.4543333333333333
+    },
+    "maniqa": {
+     "p_selected": 0.846,
+     "efficiency": 0.26286662977310415,
+     "within_spearman": 0.44316666666666676
+    },
+    "topiq_nr": {
+     "p_selected": 0.8850000000000001,
+     "efficiency": 0.4571112340896516,
+     "within_spearman": 0.4783333333333333
+    },
+    "liqe": {
+     "p_selected": 0.9275,
+     "efficiency": 0.6687880464858877,
+     "within_spearman": 0.5491666666666667
+    },
+    "afine": {
+     "p_selected": 0.934,
+     "efficiency": 0.7011621472053124,
+     "within_spearman": 0.5655
+    }
+   },
+   "crc": {
+    "0.1": {
+     "hcbon": {
+      "risk": 0.051866,
+      "deploy": 1.0,
+      "utility": 0.948134
+     },
+     "musiq": {
+      "risk": 0.06495599999999999,
+      "deploy": 0.9925600000000001,
+      "utility": 0.931324
+     },
+     "clipiqa": {
+      "risk": 0.083898,
+      "deploy": 0.66096,
+      "utility": 0.746582
+     },
+     "maniqa": {
+      "risk": 0.08612199999999999,
+      "deploy": 0.52068,
+      "utility": 0.6742180000000001
+     },
+     "topiq_nr": {
+      "risk": 0.08532,
+      "deploy": 0.72848,
+      "utility": 0.77892
+     },
+     "liqe": {
+      "risk": 0.07123399999999999,
+      "deploy": 0.9944,
+      "utility": 0.925966
+     },
+     "afine": {
+      "risk": 0.06576399999999999,
+      "deploy": 0.9890399999999999,
+      "utility": 0.9287560000000001
+     }
+    },
+    "0.2": {
+     "hcbon": {
+      "risk": 0.051798000000000004,
+      "deploy": 1.0,
+      "utility": 0.948202
+     },
+     "musiq": {
+      "risk": 0.06618399999999999,
+      "deploy": 1.0,
+      "utility": 0.933816
+     },
+     "clipiqa": {
+      "risk": 0.135994,
+      "deploy": 1.0,
+      "utility": 0.864006
+     },
+     "maniqa": {
+      "risk": 0.15492599999999998,
+      "deploy": 0.99752,
+      "utility": 0.8438340000000001
+     },
+     "topiq_nr": {
+      "risk": 0.114982,
+      "deploy": 1.0,
+      "utility": 0.8850180000000001
+     },
+     "liqe": {
+      "risk": 0.072416,
+      "deploy": 1.0,
+      "utility": 0.9275840000000001
+     },
+     "afine": {
+      "risk": 0.06559,
+      "deploy": 1.0,
+      "utility": 0.93441
+     }
+    },
+    "0.3": {
+     "hcbon": {
+      "risk": 0.052096,
+      "deploy": 1.0,
+      "utility": 0.947904
+     },
+     "musiq": {
+      "risk": 0.06640399999999999,
+      "deploy": 1.0,
+      "utility": 0.933596
+     },
+     "clipiqa": {
+      "risk": 0.13568200000000002,
+      "deploy": 1.0,
+      "utility": 0.864318
+     },
+     "maniqa": {
+      "risk": 0.15384199999999998,
+      "deploy": 1.0,
+      "utility": 0.8461579999999999
+     },
+     "topiq_nr": {
+      "risk": 0.11481999999999999,
+      "deploy": 1.0,
+      "utility": 0.88518
+     },
+     "liqe": {
+      "risk": 0.072412,
+      "deploy": 1.0,
+      "utility": 0.927588
+     },
+     "afine": {
+      "risk": 0.066132,
+      "deploy": 1.0,
+      "utility": 0.933868
+     }
+    }
+   }
+  },
+  "B_ref_GT": {
+   "K": 10,
+   "random_p": 0.19253333333333333,
+   "oracle_p": 0.4759999999999999,
+   "select": {
+    "hcbon": {
+     "p_selected": 0.36599999999999994,
+     "efficiency": 0.6119473189087488,
+     "within_spearman": 0.5855577047066408
+    },
+    "musiq": {
+     "p_selected": 0.3235,
+     "efficiency": 0.46201787394167465,
+     "within_spearman": 0.5678916827852998
+    },
+    "clipiqa": {
+     "p_selected": 0.35800000000000004,
+     "efficiency": 0.5837253057384764,
+     "within_spearman": 0.5735654416505479
+    },
+    "maniqa": {
+     "p_selected": 0.3438333333333333,
+     "efficiency": 0.5337488240827847,
+     "within_spearman": 0.6123791102514506
+    },
+    "topiq_nr": {
+     "p_selected": 0.3605,
+     "efficiency": 0.5925446848541864,
+     "within_spearman": 0.5970341715022565
+    },
+    "liqe": {
+     "p_selected": 0.36199999999999993,
+     "efficiency": 0.5978363123236123,
+     "within_spearman": 0.5693101225016118
+    },
+    "lpips": {
+     "p_selected": 0.199,
+     "efficiency": 0.022812793979303896,
+     "within_spearman": 0.13320438426821404
+    },
+    "dists": {
+     "p_selected": 0.1775,
+     "efficiency": -0.053033866415804376,
+     "within_spearman": 0.2121212121212121
+    },
+    "afine": {
+     "p_selected": 0.36149999999999993,
+     "efficiency": 0.5960724365004703,
+     "within_spearman": 0.5436492585428753
+    }
+   },
+   "crc": {
+    "0.1": {
+     "hcbon": {
+      "risk": 0.08359,
+      "deploy": 0.26192,
+      "utility": 0.5473699999999999
+     },
+     "musiq": {
+      "risk": 0.085782,
+      "deploy": 0.14332,
+      "utility": 0.48587800000000003
+     },
+     "clipiqa": {
+      "risk": 0.088338,
+      "deploy": 0.154,
+      "utility": 0.48866200000000004
+     },
+     "maniqa": {
+      "risk": 0.08901600000000001,
+      "deploy": 0.11980000000000002,
+      "utility": 0.470884
+     },
+     "topiq_nr": {
+      "risk": 0.087212,
+      "deploy": 0.13044,
+      "utility": 0.47800799999999993
+     },
+     "liqe": {
+      "risk": 0.086148,
+      "deploy": 0.1474,
+      "utility": 0.48755200000000004
+     },
+     "lpips": {
+      "risk": 0.08491800000000001,
+      "deploy": 0.13736,
+      "utility": 0.483762
+     },
+     "dists": {
+      "risk": 0.087926,
+      "deploy": 0.11992000000000001,
+      "utility": 0.472034
+     },
+     "afine": {
+      "risk": 0.087616,
+      "deploy": 0.2328,
+      "utility": 0.528784
+     }
+    },
+    "0.2": {
+     "hcbon": {
+      "risk": 0.189086,
+      "deploy": 0.45227999999999996,
+      "utility": 0.5370540000000001
+     },
+     "musiq": {
+      "risk": 0.185882,
+      "deploy": 0.29928,
+      "utility": 0.46375800000000006
+     },
+     "clipiqa": {
+      "risk": 0.18263,
+      "deploy": 0.30656,
+      "utility": 0.47064999999999996
+     },
+     "maniqa": {
+      "risk": 0.180388,
+      "deploy": 0.25188,
+      "utility": 0.445552
+     },
+     "topiq_nr": {
+      "risk": 0.18934399999999998,
+      "deploy": 0.29692,
+      "utility": 0.45911599999999997
+     },
+     "liqe": {
+      "risk": 0.18884,
+      "deploy": 0.32127999999999995,
+      "utility": 0.47179999999999994
+     },
+     "lpips": {
+      "risk": 0.18995599999999999,
+      "deploy": 0.26992,
+      "utility": 0.445004
+     },
+     "dists": {
+      "risk": 0.189588,
+      "deploy": 0.24060000000000004,
+      "utility": 0.430712
+     },
+     "afine": {
+      "risk": 0.189948,
+      "deploy": 0.40972,
+      "utility": 0.514912
+     }
+    },
+    "0.3": {
+     "hcbon": {
+      "risk": 0.287796,
+      "deploy": 0.58372,
+      "utility": 0.5040640000000001
+     },
+     "musiq": {
+      "risk": 0.286118,
+      "deploy": 0.42144000000000004,
+      "utility": 0.424602
+     },
+     "clipiqa": {
+      "risk": 0.28381,
+      "deploy": 0.44,
+      "utility": 0.43619
+     },
+     "maniqa": {
+      "risk": 0.28447,
+      "deploy": 0.41975999999999997,
+      "utility": 0.42540999999999995
+     },
+     "topiq_nr": {
+      "risk": 0.28630800000000006,
+      "deploy": 0.44692000000000004,
+      "utility": 0.437152
+     },
+     "liqe": {
+      "risk": 0.28749600000000003,
+      "deploy": 0.46436,
+      "utility": 0.444684
+     },
+     "lpips": {
+      "risk": 0.27961,
+      "deploy": 0.38096,
+      "utility": 0.41087
+     },
+     "dists": {
+      "risk": 0.281962,
+      "deploy": 0.34872000000000003,
+      "utility": 0.39239799999999997
+     },
+     "afine": {
+      "risk": 0.2852160000000001,
+      "deploy": 0.5522400000000001,
+      "utility": 0.490904
+     }
+    }
+   }
+  }
+ }
+}

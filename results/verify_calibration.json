@@ -1,0 +1,75 @@
+{
+ "r=1|n=100": {
+  "reps": 20000,
+  "crc_mean_true_risk": 0.09574466363272367,
+  "crc_mean_se": 0.00020154797378922208,
+  "ltt_violation_freq": 0.0,
+  "ltt_mean_true_risk": 0.0,
+  "ltt_deploy": 0.0
+ },
+ "r=1|n=500": {
+  "reps": 20000,
+  "crc_mean_true_risk": 0.09871269590638801,
+  "crc_mean_se": 9.198028515577167e-05,
+  "ltt_violation_freq": 0.0,
+  "ltt_mean_true_risk": 0.052965945533670344,
+  "ltt_deploy": 0.2433382251
+ },
+ "r=1|n=3000": {
+  "reps": 5000,
+  "crc_mean_true_risk": 0.09906095065258182,
+  "crc_mean_se": 7.595593906418999e-05,
+  "ltt_violation_freq": 0.0,
+  "ltt_mean_true_risk": 0.07989606217180993,
+  "ltt_deploy": 0.320999268
+ },
+ "r=3|n=100": {
+  "reps": 20000,
+  "crc_mean_true_risk": 0.09227294064259843,
+  "crc_mean_se": 0.00014684114121917745,
+  "ltt_violation_freq": 0.0,
+  "ltt_mean_true_risk": 0.0,
+  "ltt_deploy": 0.0
+ },
+ "r=3|n=500": {
+  "reps": 20000,
+  "crc_mean_true_risk": 0.0979141037280853,
+  "crc_mean_se": 6.782869036016598e-05,
+  "ltt_violation_freq": 0.0,
+  "ltt_mean_true_risk": 0.052167032757667854,
+  "ltt_deploy": 0.2413483991
+ },
+ "r=3|n=3000": {
+  "reps": 5000,
+  "crc_mean_true_risk": 0.09915674093807021,
+  "crc_mean_se": 5.574479461408426e-05,
+  "ltt_violation_freq": 0.0,
+  "ltt_mean_true_risk": 0.07990984837071442,
+  "ltt_deploy": 0.3211142662
+ },
+ "r=10|n=100": {
+  "reps": 20000,
+  "crc_mean_true_risk": 0.0921450007207417,
+  "crc_mean_se": 0.00012389723713905024,
+  "ltt_violation_freq": 0.0,
+  "ltt_mean_true_risk": 0.0,
+  "ltt_deploy": 0.0
+ },
+ "r=10|n=500": {
+  "reps": 20000,
+  "crc_mean_true_risk": 0.09783203187418668,
+  "crc_mean_se": 5.72003153454546e-05,
+  "ltt_violation_freq": 0.0,
+  "ltt_mean_true_risk": 0.05184920094706541,
+  "ltt_deploy": 0.240519298
+ },
+ "r=10|n=3000": {
+  "reps": 5000,
+  "crc_mean_true_risk": 0.09896324897906045,
+  "crc_mean_se": 4.6960155099742976e-05,
+  "ltt_violation_freq": 0.0,
+  "ltt_mean_true_risk": 0.07976327899945139,
+  "ltt_deploy": 0.3207519966
+ },
+ "note": "alpha=0.1, delta=0.1; grid: 401 points in [0,1] + inf; routine: bon_diffiqa.calibrate"
+}

@@ -1,0 +1,35 @@
+{
+ "musiq": {
+  "ms_per_image": 7.954191379369525,
+  "peak_mem_GB": 0.7566790580749512
+ },
+ "clipiqa": {
+  "ms_per_image": 7.471193678224802,
+  "peak_mem_GB": 0.7722368240356445
+ },
+ "topiq_nr": {
+  "ms_per_image": 7.754162356027284,
+  "peak_mem_GB": 0.9933462142944336
+ },
+ "liqe": {
+  "ms_per_image": 9.855920114707008,
+  "peak_mem_GB": 0.9959564208984375
+ },
+ "lpips": {
+  "ms_per_image": 2.1067100574380198,
+  "peak_mem_GB": 0.43025636672973633
+ },
+ "dists": {
+  "ms_per_image": 18.062055747201345,
+  "peak_mem_GB": 2.278148651123047
+ },
+ "afine": {
+  "ms_per_image": 9.588647413672343,
+  "peak_mem_GB": 0.9319334030151367
+ },
+ "predictor_cpu": {
+  "ms_per_image": 0.0004550616664346308
+ },
+ "hcbon_total_ms_per_image": 62.793335808306765,
+ "note": "per candidate image incl. its share of reference scoring; fp32; RTX 3090; decoding excluded"
+}

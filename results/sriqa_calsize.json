@@ -1,0 +1,482 @@
+{
+ "A_ref_RealESRNet|hcbon|20|0.1|crc": {
+  "risk": 0.046025,
+  "viol": 0.0,
+  "deploy": 0.891975
+ },
+ "A_ref_RealESRNet|hcbon|20|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|hcbon|20|0.2|crc": {
+  "risk": 0.05175749999999999,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|hcbon|20|0.2|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|hcbon|30|0.1|crc": {
+  "risk": 0.050081428571428575,
+  "viol": 0.0,
+  "deploy": 0.979057142857143
+ },
+ "A_ref_RealESRNet|hcbon|30|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|hcbon|30|0.2|crc": {
+  "risk": 0.051239999999999994,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|hcbon|30|0.2|ltt": {
+  "risk": 0.008727142857142857,
+  "viol": 0.0,
+  "deploy": 0.165
+ },
+ "A_ref_RealESRNet|hcbon|50|0.1|crc": {
+  "risk": 0.051866,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|hcbon|50|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|hcbon|50|0.2|crc": {
+  "risk": 0.051866,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|hcbon|50|0.2|ltt": {
+  "risk": 0.046082000000000005,
+  "viol": 0.0,
+  "deploy": 0.8922800000000001
+ },
+ "A_ref_RealESRNet|hcbon|70|0.1|crc": {
+  "risk": 0.05185333333333334,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|hcbon|70|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|hcbon|70|0.2|crc": {
+  "risk": 0.05185333333333334,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|hcbon|70|0.2|ltt": {
+  "risk": 0.05185333333333334,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|afine|20|0.1|crc": {
+  "risk": 0.0530375,
+  "viol": 0.0,
+  "deploy": 0.785775
+ },
+ "A_ref_RealESRNet|afine|20|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|afine|20|0.2|crc": {
+  "risk": 0.06584125,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|afine|20|0.2|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|afine|30|0.1|crc": {
+  "risk": 0.06033714285714285,
+  "viol": 0.0,
+  "deploy": 0.9027142857142858
+ },
+ "A_ref_RealESRNet|afine|30|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|afine|30|0.2|crc": {
+  "risk": 0.06564,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|afine|30|0.2|ltt": {
+  "risk": 0.009638571428571429,
+  "viol": 0.0,
+  "deploy": 0.14602857142857145
+ },
+ "A_ref_RealESRNet|afine|50|0.1|crc": {
+  "risk": 0.0658,
+  "viol": 0.002,
+  "deploy": 0.99076
+ },
+ "A_ref_RealESRNet|afine|50|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|afine|50|0.2|crc": {
+  "risk": 0.066238,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|afine|50|0.2|ltt": {
+  "risk": 0.04934,
+  "viol": 0.0,
+  "deploy": 0.70504
+ },
+ "A_ref_RealESRNet|afine|70|0.1|crc": {
+  "risk": 0.06606666666666666,
+  "viol": 0.054,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|afine|70|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|afine|70|0.2|crc": {
+  "risk": 0.06606666666666666,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|afine|70|0.2|ltt": {
+  "risk": 0.06519,
+  "viol": 0.0,
+  "deploy": 0.9792666666666666
+ },
+ "A_ref_RealESRNet|liqe|20|0.1|crc": {
+  "risk": 0.05661,
+  "viol": 0.0,
+  "deploy": 0.856225
+ },
+ "A_ref_RealESRNet|liqe|20|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|liqe|20|0.2|crc": {
+  "risk": 0.07255625,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|liqe|20|0.2|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|liqe|30|0.1|crc": {
+  "risk": 0.06584714285714285,
+  "viol": 0.0,
+  "deploy": 0.9565142857142858
+ },
+ "A_ref_RealESRNet|liqe|30|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|liqe|30|0.2|crc": {
+  "risk": 0.07224714285714286,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|liqe|30|0.2|ltt": {
+  "risk": 0.009181428571428573,
+  "viol": 0.0,
+  "deploy": 0.13594285714285712
+ },
+ "A_ref_RealESRNet|liqe|50|0.1|crc": {
+  "risk": 0.070566,
+  "viol": 0.008,
+  "deploy": 0.9940399999999999
+ },
+ "A_ref_RealESRNet|liqe|50|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|liqe|50|0.2|crc": {
+  "risk": 0.07153,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|liqe|50|0.2|ltt": {
+  "risk": 0.048518000000000006,
+  "viol": 0.0,
+  "deploy": 0.80144
+ },
+ "A_ref_RealESRNet|liqe|70|0.1|crc": {
+  "risk": 0.07140666666666666,
+  "viol": 0.038,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|liqe|70|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "A_ref_RealESRNet|liqe|70|0.2|crc": {
+  "risk": 0.07140666666666666,
+  "viol": 0.0,
+  "deploy": 1.0
+ },
+ "A_ref_RealESRNet|liqe|70|0.2|ltt": {
+  "risk": 0.06892666666666668,
+  "viol": 0.0,
+  "deploy": 0.9840666666666669
+ },
+ "B_ref_GT|hcbon|20|0.1|crc": {
+  "risk": 0.07073625000000001,
+  "viol": 0.194,
+  "deploy": 0.230275
+ },
+ "B_ref_GT|hcbon|20|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|hcbon|20|0.2|crc": {
+  "risk": 0.17098000000000002,
+  "viol": 0.312,
+  "deploy": 0.418625
+ },
+ "B_ref_GT|hcbon|20|0.2|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|hcbon|30|0.1|crc": {
+  "risk": 0.07825285714285715,
+  "viol": 0.248,
+  "deploy": 0.24731428571428568
+ },
+ "B_ref_GT|hcbon|30|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|hcbon|30|0.2|crc": {
+  "risk": 0.18087285714285714,
+  "viol": 0.368,
+  "deploy": 0.4366571428571429
+ },
+ "B_ref_GT|hcbon|30|0.2|ltt": {
+  "risk": 0.009265714285714287,
+  "viol": 0.0,
+  "deploy": 0.08037142857142857
+ },
+ "B_ref_GT|hcbon|50|0.1|crc": {
+  "risk": 0.085006,
+  "viol": 0.294,
+  "deploy": 0.26308000000000004
+ },
+ "B_ref_GT|hcbon|50|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|hcbon|50|0.2|crc": {
+  "risk": 0.18837399999999996,
+  "viol": 0.398,
+  "deploy": 0.45024000000000003
+ },
+ "B_ref_GT|hcbon|50|0.2|ltt": {
+  "risk": 0.05542200000000001,
+  "viol": 0.0,
+  "deploy": 0.19588000000000003
+ },
+ "B_ref_GT|hcbon|70|0.1|crc": {
+  "risk": 0.08794,
+  "viol": 0.326,
+  "deploy": 0.2674666666666667
+ },
+ "B_ref_GT|hcbon|70|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|hcbon|70|0.2|crc": {
+  "risk": 0.19218000000000002,
+  "viol": 0.426,
+  "deploy": 0.4538666666666667
+ },
+ "B_ref_GT|hcbon|70|0.2|ltt": {
+  "risk": 0.07431,
+  "viol": 0.004,
+  "deploy": 0.23606666666666667
+ },
+ "B_ref_GT|afine|20|0.1|crc": {
+  "risk": 0.07682,
+  "viol": 0.302,
+  "deploy": 0.20605
+ },
+ "B_ref_GT|afine|20|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|afine|20|0.2|crc": {
+  "risk": 0.17488875,
+  "viol": 0.354,
+  "deploy": 0.37965
+ },
+ "B_ref_GT|afine|20|0.2|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|afine|30|0.1|crc": {
+  "risk": 0.08625,
+  "viol": 0.366,
+  "deploy": 0.22588571428571427
+ },
+ "B_ref_GT|afine|30|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|afine|30|0.2|crc": {
+  "risk": 0.18510142857142858,
+  "viol": 0.402,
+  "deploy": 0.39805714285714283
+ },
+ "B_ref_GT|afine|30|0.2|ltt": {
+  "risk": 0.017767142857142853,
+  "viol": 0.0,
+  "deploy": 0.07214285714285713
+ },
+ "B_ref_GT|afine|50|0.1|crc": {
+  "risk": 0.090718,
+  "viol": 0.38,
+  "deploy": 0.23532000000000003
+ },
+ "B_ref_GT|afine|50|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|afine|50|0.2|crc": {
+  "risk": 0.19097000000000003,
+  "viol": 0.416,
+  "deploy": 0.4113200000000001
+ },
+ "B_ref_GT|afine|50|0.2|ltt": {
+  "risk": 0.05692,
+  "viol": 0.002,
+  "deploy": 0.17188
+ },
+ "B_ref_GT|afine|70|0.1|crc": {
+  "risk": 0.09303666666666666,
+  "viol": 0.4,
+  "deploy": 0.2356
+ },
+ "B_ref_GT|afine|70|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|afine|70|0.2|crc": {
+  "risk": 0.19642666666666667,
+  "viol": 0.462,
+  "deploy": 0.41879999999999995
+ },
+ "B_ref_GT|afine|70|0.2|ltt": {
+  "risk": 0.07794333333333334,
+  "viol": 0.02,
+  "deploy": 0.21139999999999998
+ },
+ "B_ref_GT|liqe|20|0.1|crc": {
+  "risk": 0.07522,
+  "viol": 0.206,
+  "deploy": 0.12665
+ },
+ "B_ref_GT|liqe|20|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|liqe|20|0.2|crc": {
+  "risk": 0.16953625,
+  "viol": 0.34,
+  "deploy": 0.28652500000000003
+ },
+ "B_ref_GT|liqe|20|0.2|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|liqe|30|0.1|crc": {
+  "risk": 0.07988571428571428,
+  "viol": 0.266,
+  "deploy": 0.1356
+ },
+ "B_ref_GT|liqe|30|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|liqe|30|0.2|crc": {
+  "risk": 0.17638857142857142,
+  "viol": 0.354,
+  "deploy": 0.2994285714285714
+ },
+ "B_ref_GT|liqe|30|0.2|ltt": {
+  "risk": 0.025402857142857144,
+  "viol": 0.0,
+  "deploy": 0.04188571428571428
+ },
+ "B_ref_GT|liqe|50|0.1|crc": {
+  "risk": 0.085026,
+  "viol": 0.302,
+  "deploy": 0.14528
+ },
+ "B_ref_GT|liqe|50|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|liqe|50|0.2|crc": {
+  "risk": 0.185012,
+  "viol": 0.378,
+  "deploy": 0.31572
+ },
+ "B_ref_GT|liqe|50|0.2|ltt": {
+  "risk": 0.053896,
+  "viol": 0.002,
+  "deploy": 0.08508000000000002
+ },
+ "B_ref_GT|liqe|70|0.1|crc": {
+  "risk": 0.08621333333333334,
+  "viol": 0.332,
+  "deploy": 0.14993333333333334
+ },
+ "B_ref_GT|liqe|70|0.1|ltt": {
+  "risk": 0.0,
+  "viol": 0.0,
+  "deploy": 0.0
+ },
+ "B_ref_GT|liqe|70|0.2|crc": {
+  "risk": 0.18712,
+  "viol": 0.41,
+  "deploy": 0.3174666666666667
+ },
+ "B_ref_GT|liqe|70|0.2|ltt": {
+  "risk": 0.07223666666666667,
+  "viol": 0.014,
+  "deploy": 0.1192
+ }
+}
